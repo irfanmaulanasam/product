@@ -28,24 +28,5 @@
         "name": "ini kelima",
         "price":"772212",
         "image":"https://picsum.photos/454/300/?random"
-    },
-    {
-        "id":6,
-        "name": "ini keenam",
-        "price":"772212",
-        "image":"https://picsum.photos/455/300/?random"
-    },
-    {
-        "id":7,
-        "name": "ini ketujuh",
-        "price":"772212",
-        "image":"https://picsum.photos/456/300/?random"
-    },
-    {
-        "id":8,
-        "name": "ini kedelapan",
-        "price":"772212",
-        "image":"https://picsum.photos/457/300/?random"
-
     }
 ]
